@@ -6,7 +6,7 @@
 <h1 align="center" style="color:#ff80b3;">🌸 Hi, I'm Karen! 🌸</h1>
 
 <p align="center">
-  <em>Systems Engineer | Tech Lover | Always Learning</em>
+  <em>Systems Engineer | Technology & Innovation | Learning Every Day</em>
 </p>
 
 ---
@@ -60,9 +60,6 @@ I also enjoy adding a cute and aesthetic touch to everything I do 🌸
 ---
 
 ## 🌸 Karen's Dashboard
-
-<p align="center">
-  <img src="TU_FOTO_AQUI" width="120" style="border-radius: 50%; margin-right: 20px;" />
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarenErazo0&theme=rose_pine" height="200" />
