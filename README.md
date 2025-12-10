@@ -1,28 +1,89 @@
-### Hola! Mi nombre es Karen:
-![ingimage](https://github.com/KarenErazo0/KarenErazo0/assets/144853002/e9bea6e8-4aee-48a5-b17e-33384ca7efb8)
-### Soy de: _Pasto-Colombia_ 
-### Estudio en: _Universidad Mariana_
-### Edad: _17 años_ 
-### Tengo dos mascotas 🐶😺
-### Me gusta escuchar musica 🎵
-### Me gustan las peliculas de terror 👻
-# 💻 Lenguajes de Programacion:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<!-- Main Banner -->
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL_HERE" width="750px" alt="Karen Banner" style="border-radius: 12px;">
+</p>
+
+<h1 align="center" style="color:#ff80b3;">🌸 Hi, I'm Karen! 🌸</h1>
+
+<p align="center">
+  <em>Systems Engineer | Tech Lover | Always Learning</em>
+</p>
+
+---
+
+## 💗 About Me
+<p align="center">
+✨ Hi! I'm Karen, a systems engineer passionate about technology, innovation, and creative problem-solving. <br><br>
+I love learning something new every day and building solutions that make a difference. <br><br>
+I also enjoy adding a cute and aesthetic touch to everything I do 🌸
+</p>
+
+---
+
+## 💻 Languages & Technologies
+
+<p align="center">
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+
+  <!-- HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+
+  <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
+
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" />
+
+  <!-- VSCode -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+</p>
+
+---
+
+## 🎀 Skills
+- 🌸 Backend & frontend development  
+- 💗 Teamwork and communication  
+- 🌟 Project management  
+- 💼 Analytical and problem-solving mindset  
+- 📚 Continuous learning  
+
+---
+
+## 🌸 Karen's Dashboard
+
+<p align="center">
+  <img src="TU_FOTO_AQUI" width="120" style="border-radius: 50%; margin-right: 20px;" />
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarenErazo0&theme=rose_pine" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KarenErazo0&theme=rose_pine" height="200" />
+</p>
 
 
+## 📫 Contact Me
 
+<p align="center">
+  <a href="mailto:karenerazo614@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7d2181?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-f9a3c7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-<!--
-**KarenErazo0/KarenErazo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  💕 Thank you for visiting my profile! 💕  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
