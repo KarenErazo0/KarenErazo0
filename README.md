@@ -1,6 +1,6 @@
 <!-- Main Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" width="750px" alt="Karen Banner" style="border-radius: 12px;">
+  <img src="https://github.com/user-attachments/assets/442373ba-0a3a-4559-93b3-517cfad6b99a" width="1000px" alt="Karen Banner" style="border-radius: 12px;">
 </p>
 
 <h1 align="center" style="color:#ff80b3;">🌸 Hi, I'm Karen! 🌸</h1>
